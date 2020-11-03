@@ -1,0 +1,9 @@
+Username: admin
+password:admin
+
+please keep your SQLite folder in C:
+
+---Change path for localhost in ----
+DeviceManagementPortal\DevicePortalApp\Helper\Helper.cs
+
+exp:Uri("https://localhost:44337");
